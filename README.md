@@ -2,9 +2,7 @@
  nopickles
 
 
-Swxy#0001 
-Sydres#9887
-Rubidium#7756(hawkeye)
+dav#0002
 Full Nopixel Files from 2.0 
 
 NoPixel Launchers Source: https://github.com/swxy/nopixelaunchersource
@@ -18,5 +16,5 @@ I have no hate towards NoPixel its the best server there is and by far has the b
 Im Hoping people dont just download and Re-Sell this as kinda scummy its free for a reason.
 
 
-Swxy#0001 :) 
+dav#0002 :) 
 
